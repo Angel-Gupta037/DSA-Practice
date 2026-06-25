@@ -43,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0229-majority-element-ii) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
