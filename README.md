@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0796-rotate-string](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
