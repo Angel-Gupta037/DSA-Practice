@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0076-minimum-window-substring) |
+| [0205-isomorphic-strings](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0076-minimum-window-substring) |
+| [0205-isomorphic-strings](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [1903-largest-odd-number-in-string](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
