@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0007-reverse-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1922-count-good-numbers) |
 ## String
 |  |
 | ------- |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
