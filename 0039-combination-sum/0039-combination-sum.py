@@ -1,15 +1,22 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        res=[]
-        def helper(i,ds,target):
-            if target==0:
-                res.append(ds[:])
+        ans = []
+        
+        def recurse(ind, t, ds):
+            # Base case
+            if ind == len(candidates):
+                if t == 0:
+                    ans.append(ds[:])  
                 return
-            if i==len(candidates) or target<0:
-                return
-            ds.append(candidates[i])
-            helper(i,ds,target-candidates[i])
-            ds.pop()
-            helper(i+1,ds,target)
-        helper(0,[],target)
-        return res
+            
+            # DON'T 
+            recurse(ind + 1, t, ds)
+            
+            #PICK (if it fits)
+            if candidates[ind] <= t:  
+                ds.append(candidates[ind]) 
+                recurse(ind, t - candidates[ind], ds)
+                ds.pop() 
+        
+        recurse(0, target, [])  #Call the function
+        return ans
