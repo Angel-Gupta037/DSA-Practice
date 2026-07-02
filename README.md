@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0088-merge-sorted-array](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0090-subsets-ii) |
 | [0229-majority-element-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0040-combination-sum-ii) |
+| [0090-subsets-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0090-subsets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
