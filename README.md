@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
