@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0088-merge-sorted-array) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0042-trapping-rain-water) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0234-palindrome-linked-list) |
@@ -194,5 +198,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
