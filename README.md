@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -200,4 +202,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
