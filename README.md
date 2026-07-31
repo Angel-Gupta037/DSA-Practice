@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0074-search-a-2d-matrix](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0084-largest-rectangle-in-histogram) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 ## Backtracking
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [1260-shift-2d-grid](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1260-shift-2d-grid) |
