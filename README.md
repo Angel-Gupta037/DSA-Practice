@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0042-trapping-rain-water) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0141-linked-list-cycle) |
