@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0229-majority-element-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0907-sum-of-subarray-minimums) |
