@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0079-word-search) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0229-majority-element-ii) |
@@ -278,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0877-stone-game) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
