@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0907-sum-of-subarray-minimums) |
+| [0930-binary-subarrays-with-sum](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1260-shift-2d-grid) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0496-next-greater-element-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## String Matching
