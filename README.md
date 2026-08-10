@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
