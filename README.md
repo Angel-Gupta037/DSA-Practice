@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1922-count-good-numbers) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
 | ------- |
