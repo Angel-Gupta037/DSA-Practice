@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0503-next-greater-element-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -340,4 +344,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0005-longest-palindromic-substring) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
