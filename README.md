@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1922-count-good-numbers) |
+| [1927-sum-game](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1927-sum-game) |
 ## Quicksort
 |  |
 | ------- |
