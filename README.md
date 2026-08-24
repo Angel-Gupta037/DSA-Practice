@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1552-magnetic-force-between-two-balls) |
+| [1872-stone-game-viii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1901-find-a-peak-element-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
+| [1872-stone-game-viii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1927-sum-game) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1872-stone-game-viii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1872-stone-game-viii) |
 ## String Matching
 |  |
 | ------- |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0907-sum-of-subarray-minimums) |
+| [1872-stone-game-viii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1872-stone-game-viii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1927-sum-game) |
 ## Quicksort
 |  |
@@ -356,4 +361,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
