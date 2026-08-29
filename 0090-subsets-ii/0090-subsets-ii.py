@@ -1,22 +1,17 @@
 class Solution:
     def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
-        nums=sorted(nums)
-        n=len(nums)
-        res=[]
-        def helper(i,ds):
-            if i==n:
-                res.append(ds[:])
-                return
-            #include
-            ds.append(nums[i])
-            helper(i+1,ds)
-            ds.pop()
-            idx=i+1
-            while idx<n and nums[idx-1]==nums[idx]:
-                idx+=1
-            helper(idx,ds)
-        helper(0,[])
-        return res
-
-         
+        nums.sort()
+        res = []
         
+        def backtrack(start: int, curr: List[int]):
+            res.append(curr[:]) #whole set as a subset is obvious
+            
+            for i in range(start, len(nums)): #we iterate
+                if i > start and nums[i] == nums[i - 1]: #if prev is same as curr- leave it
+                    continue
+                curr.append(nums[i])#append whatever bypasses the above cond.
+                backtrack(i + 1, curr) #imoves ahead,checks for next number
+                curr.pop()
+        
+        backtrack(0, [])
+        return res
