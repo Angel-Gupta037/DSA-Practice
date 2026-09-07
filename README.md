@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0877-stone-game](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0907-sum-of-subarray-minimums) |
+| [0940-distinct-subsequences-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1872-stone-game-viii) |
 ## Bit Manipulation
 |  |
