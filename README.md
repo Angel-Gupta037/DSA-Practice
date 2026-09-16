@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0907-sum-of-subarray-minimums) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
