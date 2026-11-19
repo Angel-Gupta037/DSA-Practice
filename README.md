@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1872-stone-game-viii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1901-find-a-peak-element-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1901-find-a-peak-element-ii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1927-sum-game) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/1552-magnetic-force-between-two-balls) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Angel-Gupta037/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
